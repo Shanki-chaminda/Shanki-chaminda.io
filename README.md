@@ -1,7 +1,9 @@
 # Shanki Chaminda Sumanarathna
+## About Me
 
-**Aspiring Professional | Economics | Accounting | HR | Marketing (Sales)**  
-Kurunegala, Sri Lanka | [chamindhyashanki@gmail.com](mailto:chamindhyashanki@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shanki-chamindhya-578909255)
+I am a dynamic and goal-driven professional with expertise in Economics, Accounting, HR, and Marketing.  
+Passionate about innovation, problem-solving, and building strong professional relationships.  
+I thrive in fast-paced environments where I can contribute meaningfully to organizational success.
 
 ## Education
 
