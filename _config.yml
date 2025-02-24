@@ -1,12 +1,14 @@
+---
 title: "Shanki Chamindhya"
 show_downloads: false
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-modernist
 
 description: |
   <style>
     .profile-container {
       display: flex;
-      align-items: center;
+      flex-wrap: nowrap;
+      align-items: flex-start;
       justify-content: flex-start;
       text-align: left;
       padding: 20px;
@@ -18,9 +20,8 @@ description: |
     }
 
     .profile-image {
-      display: flex;
-      justify-content: center;
       margin-right: 20px;
+      flex-shrink: 0;
     }
 
     .profile-image img {
@@ -33,6 +34,7 @@ description: |
 
     .profile-details {
       flex-grow: 1;
+      max-width: 600px;
       padding: 10px;
       font-family: Arial, sans-serif;
       color: #333;
@@ -60,7 +62,6 @@ description: |
       .profile-container {
         flex-direction: column;
         align-items: center;
-        text-align: center;
       }
       .profile-image {
         margin-bottom: 20px;
