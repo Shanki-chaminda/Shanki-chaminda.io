@@ -1,1 +1,100 @@
+---
+title: "Shanki Chamindhya"
+show_downloads: false
+theme: jekyll-theme-minimal
+
+description: |
+  <style>
+    .profile-container {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 20px;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+
+    .profile-image {
+      display: flex;
+      justify-content: center;
+      margin-bottom: 20px;
+    }
+
+    .profile-image img {
+      width: 180px;
+      height: 180px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 3px solid #555;
+    }
+
+    .profile-details {
+      width: 100%;
+      max-width: 600px;
+      padding: 10px;
+    }
+
+    .contact-info {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      margin-top: 20px;
+    }
+
+    .contact-item {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .contact-item img {
+      width: 20px;
+      height: 20px;
+    }
+
+    @media (max-width: 600px) {
+      .profile-container {
+        flex-direction: column;
+      }
+    }
+  </style>
+
+  <div class="profile-container">
+    <div class="profile-image">
+      <img src="assessment/shanki.me.jpg" alt="Shanki Chamindhya">
+    </div>
+
+    <div class="profile-details">
+      <h2>About Me</h2>
+      <p>I am a dynamic and goal-driven professional with expertise in Economics, Accounting, HR, and Marketing.<br>
+      Passionate about innovation, problem-solving, and building strong professional relationships.<br>
+      I thrive in fast-paced environments where I can contribute meaningfully to organizational success.</p>
+      
+      <h2>Contact</h2>
+      <div class="contact-info">
+        <div class="contact-item">
+          <img src="assessment/location.png" alt="Location Icon">
+          <span>Kurunegala, Sri Lanka</span>
+        </div>
+        <div class="contact-item">
+          <img src="assessment/phone-circle.png" alt="Phone Icon">
+          <span>+94 712327929</span>
+        </div>
+        <div class="contact-item">
+          <img src="assessment/mailicon.png" alt="Email Icon">
+          <a href="mailto:chamindhyashanki@gmail.com">chamindhyashanki@gmail.com</a>
+        </div>
+        <div class="contact-item">
+          <img src="assessment/GitHubicon.png" alt="GitHub Icon">
+          <a href="https://github.com/Shanki-chaminda" target="_blank">github.com/Shanki-chaminda</a>
+        </div>
+        <div class="contact-item">
+          <img src="assessment/linkdinicon.png" alt="LinkedIn Icon">
+          <a href="http://linkedin.com/in/shanki-chamindhya-578909255" target="_blank">linkedin.com/in/shanki-chamindhya</a>
+        </div>
+      </div>
+    </div>
+  </div>
 
